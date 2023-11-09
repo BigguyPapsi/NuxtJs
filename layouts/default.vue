@@ -3,6 +3,8 @@
     <span>Hello</span>
     <span><NuxtLink to="/info">users</NuxtLink></span>
     <span><NuxtLink to="/page2">page2</NuxtLink></span>
+    <span><NuxtLink to="/page2">page2</NuxtLink></span>
+    
   </div>
   <div>
     <slot />
